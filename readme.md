@@ -19,6 +19,7 @@ My goal is to spend about an hour each day working on this website, so I can mak
 * [Tailwindcss Documentation](https://v2.tailwindcss.com/docs)
 * [Vite Documentation](https://vitejs.dev/guide/)
 * [Vue 3 Documentation](https://vuejs.org/guide)
+* [Fixing Vue import](https://github.com/storybookjs/storybook/issues/26306)
 
 ## Acknowledgements:
 * Thank you for visiting my portfolio website! 
